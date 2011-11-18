@@ -1,0 +1,2 @@
+Compile a simple Lisp into JavaScript.
+Currently only a REPL that shows the result JavaScript and the evaluation of it.
